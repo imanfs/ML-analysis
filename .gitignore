@@ -140,3 +140,5 @@ scratch.py
 /resources
 
 *.code-workspace
+
+/model
