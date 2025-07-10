@@ -82,7 +82,7 @@ def main():
 
     ROOT_DIR = Path("/Users/iman/345-data/ml-datasets/ccbf")
 
-    DATASET = "ccbf-det-fronts-20250709"
+    DATASET = "ccbf-det-20250710"
     output_dir = ROOT_DIR / "vectors" / DATASET
     crops_dir = ROOT_DIR / "recognition" / DATASET
 
