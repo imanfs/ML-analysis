@@ -142,3 +142,5 @@ scratch.py
 *.code-workspace
 
 /model
+
+.DS_Store
